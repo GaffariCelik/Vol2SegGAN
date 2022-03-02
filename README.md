@@ -1,2 +1,2 @@
 # Vol2SegGAN
-Vol2SegGAN: A new GAN based segmentation architecture for 3d brain MRI scans 
+A new 3D MRI segmentation method based on Generative Adversarial Network and Atrous Convolution
