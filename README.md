@@ -18,6 +18,6 @@ A new 3D MRI segmentation method based on Generative Adversarial Network and Atr
 ![Fig 6](https://user-images.githubusercontent.com/79109465/156328886-16efef8c-c710-4d0e-b896-42ab4d27729a.png)
 
 
-# Citation:
+# Citation and  More Information:
 
 Doi : https://doi.org/10.1016/j.bspc.2021.103155
